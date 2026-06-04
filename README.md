@@ -1,5 +1,22 @@
 # Communicator EX
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/chernex/Communicator_EX?style=for-the-badge&color=2eb872" alt="License">
+  <img src="https://img.shields.io/github/stars/chernex/Communicator_EX?style=for-the-badge&color=f4d160" alt="Stars">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android-blue?style=for-the-badge" alt="Platforms">
+  <img src="https://img.shields.io/badge/Architecture-Self--Hosted%20%7C%20P2P-orange?style=for-the-badge" alt="Architecture">
+</p>
+
+<p align="center">
+  <strong>An open-source, high-performance real-time communication platform focused on secure voice, video, and ultra-low-latency desktop screen sharing.</strong>
+</p>
+
+<p align="center">
+  🌐 <a href="http://communicator-ex.ru/"><strong>Official Website</strong></a> | 📢 <a href="https://t.me/chern_ex"><strong>Active Telegram Community</strong></a>
+</p>
+
+---
+
 ## 🖥️ Project Showcase
 
 <p align="center">
