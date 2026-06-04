@@ -1,18 +1,16 @@
 # Communicator EX
 
+## 🖥️ Project Showcase
+
 <p align="center">
-  <img src="https://img.shields.io/github/license/chernex/Communicator_EX?style=for-the-badge&color=2eb872" alt="License">
-  <img src="https://img.shields.io/github/stars/chernex/Communicator_EX?style=for-the-badge&color=f4d160" alt="Stars">
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android-blue?style=for-the-badge" alt="Platforms">
-  <img src="https://img.shields.io/badge/Architecture-Self--Hosted%20%7C%20P2P-orange?style=for-the-badge" alt="Architecture">
+  <img src="assets/screenshots/title windows 11 pc.png" width="24%" alt="Main Client UI" title="Main Client Interface">
+  <img src="assets/screenshots/screen-sharing.png" width="24%" alt="1080p Screen Sharing" title="Ultra-Low Latency Screen Sharing">
+  <img src="assets/screenshots/room call windows pc.png" width="24%" alt="Voice & Video Room" title="Voice & Video Conference Room">
+  <img src="assets/screenshots/video-call.png" width="24%" alt="Webcam Video Call" title="High-Definition Video Call">
 </p>
 
 <p align="center">
-  <strong>An open-source, high-performance real-time communication platform focused on secure voice, video, and ultra-low-latency desktop screen sharing.</strong>
-</p>
-
-<p align="center">
-  🌐 <a href="http://communicator-ex.ru/"><strong>Official Website</strong></a> | 📢 <a href="https://t.me/chern_ex"><strong>Active Telegram Community</strong></a>
+  <em>Application Interface: Standalone Client Dashboard | 1080p Screen Sharing | Call Infrastructure | Webcam Video Conference</em>
 </p>
 
 ---
