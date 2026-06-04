@@ -15,20 +15,6 @@
 
 ---
 
-## 🖥️ Project Showcase
-
-<p align="center">
-  <img src="assets/screenshots/title windows 11 pc.png" width="32%" alt="Main Client UI" title="Main Client Interface">
-  <img src="assets/screenshots/screen-sharing.png" width="32%" alt="1080p Screen Sharing" title="Ultra-Low Latency Screen Sharing">
-  <img src="assets/screenshots/room call windows pc.png" width="32%" alt="Voice & Video Room" title="Voice & Video Conference Room">
-</p>
-
-<p align="center">
-  <em>Application Interface: Standalone Client Dashboard | 1080p Screen Sharing | Low-Latency Call Infrastructure</em>
-</p>
-
----
-
 ## 🎯 About & Core Philosophy
 
 **Communicator EX** is a next-generation desktop communication environment engineered from the ground up to challenge heavy corporate alternatives. By combining a native-like desktop runtime with a robust Go-based WebRTC signaling ecosystem, the platform delivers enterprise-grade media transmission while maintaining absolute data ownership through self-hosted deployments.
